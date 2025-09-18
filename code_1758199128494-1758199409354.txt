@@ -1,0 +1,1 @@
+Parsed content from 'AI赋能个性化行程规划器.pptx' (extracted via file_parse_by_url). Contains key details about AI-powered personalized travel planner requirements, features, and project structure.
